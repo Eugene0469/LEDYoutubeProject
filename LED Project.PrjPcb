@@ -106,6 +106,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMQYOPQP
 
+[ProjectVariant1]
+Description=LEDNotFitted
+AllowFabrication=1
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for LED Project\Design Rule Check - LED.html
 DItemRevisionGUID=
