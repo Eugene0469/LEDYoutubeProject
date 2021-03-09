@@ -48,8 +48,8 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -105,6 +105,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMQYOPQP
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LED Project\Design Rule Check - LED.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
