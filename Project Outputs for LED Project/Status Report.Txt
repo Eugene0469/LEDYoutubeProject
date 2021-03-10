@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:43:02 On 10/03/2021
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [LEDNotFitted] of Project [LED Project.PrjPcb]
+   Generated File[LEDNotFitted.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:43:20 On 10/03/2021

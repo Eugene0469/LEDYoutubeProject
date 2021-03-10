@@ -1,0 +1,6 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R1         R0805               236.22mil    511.811mil     236.22mil    511.811mil     236.22mil    480.315mil  T         90.00 360R           
+J1         HEADER1X2          570.866mil    433.071mil    570.866mil    433.071mil    570.866mil    483.071mil  T        360.00 1*2 HEADER     
+D1         LED0603G            236.22mil    275.591mil     236.22mil    275.591mil     236.22mil    244.095mil  T         90.00 GREEN          
+

@@ -1,4 +1,5 @@
 # Custom
 *.zip
 *.log
-/Project Outputs for LED Project
+/Project Logs for LED Project
+__Previews
