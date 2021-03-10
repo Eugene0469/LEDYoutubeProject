@@ -133,7 +133,135 @@ Variation2=Designator=R2|UniqueId=\PVOPKCMP|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for LED Project\NC Drill Files\[No Variations].DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].GM2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].GTO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].GTP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for LED Project\NC Drill Files\[No Variations].LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for LED Project\Gerber Files\[No Variations].RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for LED Project\Export STEP\[No Variations].step
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for LED Project\NC Drill Files\[No Variations].TXT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for LED Project\Bill of Materials\[No Variations].xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for LED Project\Design Rule Check - LED.html
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for LED Project\Gerber Files\LEDNotFitted.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for LED Project\Export STEP\LEDNotFitted.step
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for LED Project\Generates pick and place files\LEDNotFitted.txt
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for LED Project\Bill of Materials\LEDNotFitted.xlsx
 DItemRevisionGUID=
 
 [Configuration1]
